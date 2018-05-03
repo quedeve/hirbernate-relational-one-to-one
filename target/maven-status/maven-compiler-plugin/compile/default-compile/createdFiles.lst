@@ -1,0 +1,12 @@
+model\Kecamatan.class
+config\Konfigurasi.class
+dao\PersonDao.class
+model\Student.class
+main\MainApps.class
+dao\TransaksiDetailDao.class
+model\Alamat.class
+dao\StudentDao.class
+dao\TransaksiDao.class
+model\Person.class
+model\Transaksi.class
+model\TransaksiDetail.class
